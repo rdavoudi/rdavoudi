@@ -2,7 +2,6 @@
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning German, Go and Python
 - 💞️ I’m looking to collaborate on enterprise projects
-- 📫 You can reach me through reza.davodi@gmail.com
 - LinkedIn profile: https://www.linkedin.com/in/reza-davoudi/
 <!---
 rdavoudi/rdavoudi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
